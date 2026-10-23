@@ -9,3 +9,5 @@
 - I used them along with vite
 ---
 I plan to update it in future and make use of it, for solving something useful, but as of currently it'll stay as a dummy page
+---
+you can view the site at:- https://chromoxd.github.io/Illumination/
