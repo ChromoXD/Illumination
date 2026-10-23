@@ -1,5 +1,5 @@
 import './style.css'
-import bgURL from './assets/BG.jpg'
+const bgURL = new URL('./assets/BG.jpg', import.meta.url).href;
 
 
 const cvs = document.getElementById('cvs');
