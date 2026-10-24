@@ -1,4 +1,4 @@
-import './style.css'
+// import './style.css'
 const bgURL = new URL('./assets/BG.jpg', import.meta.url).href;
 
 
